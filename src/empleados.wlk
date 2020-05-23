@@ -9,7 +9,7 @@ object galvan {
 }
 
 object baigorria {
-	var cantidadEmpanadasVendidas = 159
+	var cantidadEmpanadasVendidas = 160
 	var montoPorEmpanada = 15
 	
 	method venderEmpanada() {
